@@ -4,8 +4,8 @@ class Solution:
     def b64encoding_decoding(self,string):
         print("Original String:",string)
         
-        #Base64 Encoding takes input in Bytes format for Base64 Encode or Base64 Decode
-        #Output of Base64 Encode or Base64 Decode is also in Bytes format, which needs to be decoded as well 
+        #Base64 Encoding takes input in Bytes format for b64Encode or b64Decode
+        #Output of b64Encode or b64decode is also in Bytes format, which needs to be decoded as well 
         
         #Encoding
         #Bytes Format
